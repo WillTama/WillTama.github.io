@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>RSS de Guillermo</title>
+        <link>https://willtama.github.io/</link>
+        <description>WEB de Guillermo Tamajón</description>
+        <item>
+            <title>Presentación</title>
+            <autor>Guillermo Tamajón</autor>
+            <link>https://willtama.github.io/actividades/presentacion.pdf</link>
+            <description>Ejercicio 1</description>
+            <comments>Ejemplo</comments>
+        </item>
+        <item>
+            <title>Probando HTTP</title>
+            <autor>Guillermo Tamajón</autor>
+            <link>https://willtama.github.io/actividades/probandohttp.pdf</link>
+            <description>Ejercicio 3</description>
+            <comments>Ejemplo</comments>
+        </item>
+    </channel>
+</rss>
